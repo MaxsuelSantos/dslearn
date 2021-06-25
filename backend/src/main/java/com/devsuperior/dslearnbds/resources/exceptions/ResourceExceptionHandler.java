@@ -1,4 +1,4 @@
-package com.devsuperior.dslearnbds.recourse.exceptions;
+package com.devsuperior.dslearnbds.resources.exceptions;
 
 import com.devsuperior.dslearnbds.services.exception.DatabaseException;
 import com.devsuperior.dslearnbds.services.exception.ResourceNotFoundException;
